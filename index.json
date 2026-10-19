@@ -1,0 +1,11 @@
+{
+  "org": "mitsuhiko",
+  "repo": "phpserialize",
+  "versions": [
+    {
+      "commit": "46a7e5d443757dedaaff4f6b1b8ae5e020210e0e",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:27:35.997350+00:00"
+    }
+  ]
+}
