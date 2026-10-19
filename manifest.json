@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "mitsuhiko",
+  "repo": "phpserialize",
+  "versions": [
+    {
+      "commit": "46a7e5d443757dedaaff4f6b1b8ae5e020210e0e",
+      "parsed_at": "2026-10-19T13:25:37.216484+00:00",
+      "filetree": "filetree/46a7e5d443757dedaaff4f6b1b8ae5e020210e0e.nq.gz",
+      "blobs": [
+        "blob/ea49e64a2cf17a3aacdaf67c214b09865e54ac99.nq.gz",
+        "blob/861a9f554263efb088d8636c4f17a30696e495ad.nq.gz",
+        "blob/49f17aff5b991adc0d2b30f01948e9ba1f01a5f0.nq.gz",
+        "blob/f6d7066986e66418fe4f2132ce292754d675dc6a.nq.gz",
+        "blob/036cfb4c36438e1b9671d51ed8fc6cc3b9197abd.nq.gz",
+        "blob/4b7abf0c9b9855a3b4ab79862043eefafd561a12.nq.gz",
+        "blob/855285711523ad7fe2f0bfeb92d6f803a88951a8.nq.gz",
+        "blob/9a72537dd03963edac5876568bd3ffb4b0ad8940.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
